@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPL11 - Fantasy Cricket</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        .container { max-width: 600px; margin: 50px auto; padding: 20px; background: white; border-radius: 10px; }
+        h1 { color: #ff4500; }
+        .match-list, .leaderboard, .payment { margin: 20px 0; padding: 10px; border: 1px solid #ddd; border-radius: 5px; background: #fff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to CPL11</h1>
+        
+        <div class="match-list">
+            <h2>Upcoming Matches</h2>
+            <p>IPL 2025 - Mumbai Indians vs Chennai Super Kings</p>
+            <p>IPL 2025 - RCB vs KKR</p>
+        </div>
+
+        <div class="leaderboard">
+            <h2>Leaderboard</h2>
+            <p>1. Player1 - 250 Points</p>
+            <p>2. Player2 - 230 Points</p>
+            <p>3. Player3 - 200 Points</p>
+        </div>
+
+        <div class="payment">
+            <h2>Deposit Money</h2>
+            <p>Scan the QR Code to Add Money</p>
+            <img src="photo_2025-03-24_01-34-33.jpg" alt="QR Code" width="200">
+            <p>UPI ID: harshdhakad95@fam</p>
+        </div>
+    </div>
+</body>
+</html>
